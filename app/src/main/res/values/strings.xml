@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat_1</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next-></string>
+    <string name="name">Name:</string>
+    <string name="name_hint">Your User Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="phone">Phone:</string>
+    <string name="submit">Submit</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="login">Login</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="send">Send</string>
+    <string name="title_activity_otp">Otp</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="type_a_message">Type a Message</string>
+</resources>
